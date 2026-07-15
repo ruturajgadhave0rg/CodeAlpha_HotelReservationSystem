@@ -1,0 +1,24 @@
+====================================
+Booking ID : 1001
+Customer Name : Ruturaj Gadhave
+Phone : 9876543210
+Email : ruturaj@gmail.com
+Room Number : 101
+Category : Standard
+Days : 3
+Total Amount : ₹4500.0
+Payment : Pending
+====================================
+
+====================================
+Booking ID : 1002
+Customer Name : vishal
+Phone : 8765432190
+Email : vishal@gmail.com
+Room Number : 202
+Category : Deluxe
+Days : 3
+Total Amount : ₹7500.0
+Payment : Pending
+====================================
+
